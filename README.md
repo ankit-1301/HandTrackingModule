@@ -1,6 +1,7 @@
-#Hand Tracking Module
-Libraris:
-pip install opencv-python
-pip install mediapipe
+# Hand Tracking Module
 
-Run Volume_Control Module 
+## Libraries:
+- `pip install opencv-python`
+- `pip install mediapipe`
+
+## Run Volume_Control Module
