@@ -3,8 +3,8 @@ import mediapipe
 import numpy as np
 import  HandTrackingModule as htm
 import math
-from comtypes import CLSCTX_ALL
-from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
+from comtypes import CLSCTX_ALL # type: ignore
+from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume # type: ignore
 
 wCam=640
 hCam=480
